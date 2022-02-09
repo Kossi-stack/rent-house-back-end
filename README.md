@@ -33,9 +33,10 @@ Ruby on Rails Postgres Rspec
 - LinkedIn: []()
 
 👤 ***Isabella***
-- Location: 
-- GitHub: []()
-- LinkedIn: []()
+- Location: Nairobi, Kenya
+- Github: [@Isabellanamutenda](https://github.com/Isabellanamutenda)
+-Linkedin: [Isabellanamutenda](https://www.linkedin.com/in/isabella-namutenda/)
+
 
 👤***Uzair***
 - Location: 
