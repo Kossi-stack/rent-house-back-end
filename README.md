@@ -35,7 +35,7 @@ Ruby on Rails Postgres Rspec
 👤 ***Isabella***
 - Location: Nairobi, Kenya
 - Github: [@Isabellanamutenda](https://github.com/Isabellanamutenda)
--Linkedin: [Isabellanamutenda](https://www.linkedin.com/in/isabella-namutenda/)
+- Linkedin: [Isabellanamutenda](https://www.linkedin.com/in/isabella-namutenda/)
 
 
 👤***Uzair***
