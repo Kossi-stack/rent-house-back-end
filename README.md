@@ -24,8 +24,8 @@ Ruby on Rails Postgres Rspec
 
 👤***Elmar***
 - Location: Baku, Azerbaijan
-- GitHub: [elmar8287]()
-- LinkedIn: [elmar.abdulkarimov]()
+- GitHub: [elmar8287](https://github.com/elmar8287)
+- LinkedIn: [elmar.abdulkarimov](https://www.linkedin.com/in/elmar-abdulkarimov/)
 
 👤***Rustam***
 - Location: 
