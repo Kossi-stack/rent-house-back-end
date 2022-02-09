@@ -6,7 +6,6 @@
 
 - Direct link to [Kanban board](https://github.com/Kossi-stack/rent-house-back-end/projects/1) for whole capstone project
 
-![Kanban screen](./app/assets/image/kanban.JPG)
 
 
 The final member number of this project is: 5!
