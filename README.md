@@ -71,10 +71,11 @@ If you are using deployed app
 - GitHub: [elmar8287](https://github.com/elmar8287)
 - LinkedIn: [elmar.abdulkarimov](https://www.linkedin.com/in/elmar-abdulkarimov/)
 
-👤***Rustam***
-- Location: 
-- GitHub: []()
-- LinkedIn: []()
+👤 **Rustamxon**
+
+- GitHub: [@githubhandle](https://github.com/Rustamxon7)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rustamjon-tolipov-6a831020b)
+- Twitter: [Twitter](https://twitter.com/Rustamjon7777)
 
 👤 ***Isabella***
 - Location: Nairobi, Kenya
