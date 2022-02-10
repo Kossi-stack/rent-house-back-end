@@ -13,9 +13,9 @@ The final member number of this project is: 5!
 
 ## Built With
 
-Ruby on Rails 
-Postgres 
-Rspec
+ Ruby on Rails 
+ Postgres 
+ Rspec
 
 ## Getting Started
 
@@ -23,9 +23,9 @@ To get a local copy up and run the app, follow these simple example steps.
 
 ## Prerequisites
 
-Ruby : 3.0.1
-Rails : 7.0.1
-Postgres > 14.0
+ Ruby : 3.0.1
+ Rails : 7.0.1
+ Postgres > 14.0
 
 ## Setup
 Clone the repository with:
@@ -39,14 +39,14 @@ To install all dependencies, run:
 
 Create database and seed the data
 
-   rails db:create
-   rails db:migrate
-   rails db:seed
+    rails db:create
+    rails db:migrate
+    rails db:seed
 
 ## Usage
 To run the server, in the project directory, run:
 
-  rails s
+    rails s
 
 ## Endpoints
 
