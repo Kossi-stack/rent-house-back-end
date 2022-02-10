@@ -1,4 +1,4 @@
-# The House Rent app on RoR
+# The `House Rent` app on RoR
 
 ## The Back-end for Final Capstone Project
 
@@ -13,7 +13,50 @@ The final member number of this project is: 5!
 
 ## Built With
 
-Ruby on Rails Postgres Rspec
+Ruby on Rails 
+Postgres 
+Rspec
+
+## Getting Started
+
+To get a local copy up and run the app, follow these simple example steps.
+
+## Prerequisites
+
+Ruby : 3.0.1
+Rails : 7.0.1
+Postgres > 14.0
+
+## Setup
+Clone the repository with:
+
+    git@github.com:Kossi-stack/appointment-back-end.git
+
+## Install
+To install all dependencies, run:
+
+    bundle install
+
+Create database and seed the data
+
+   rails db:create
+   rails db:migrate
+   rails db:seed
+
+## Usage
+To run the server, in the project directory, run:
+
+  rails s
+
+## Endpoints
+
+If you are using the app localy
+
+{defaultHost} = http://localhost:3000
+
+If you are using deployed app
+
+{defaultHost} = .............
 
 
 👤👤 Authors
@@ -21,7 +64,7 @@ Ruby on Rails Postgres Rspec
 👤 ***Kossi Fioklou***
 - Location:Lome, Togo
 - GitHub: [@Kossi-stack](https://github.com/kossi-stack)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kossi-stack/)
+- LinkedIn: [@Kossi-stack](https://www.linkedin.com/in/kossi-stack/)
 
 👤***Elmar***
 - Location: Baku, Azerbaijan
