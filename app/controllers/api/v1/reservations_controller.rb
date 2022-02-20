@@ -10,5 +10,10 @@ class Api::V1::ReservationsController < ApplicationController
         else
           render json: { errors: @reservation.errors.full_messages }, status: :unprocessable_entity
         end
+    end
+    def destroy
+        @reservation = Reservation.find(params[:id])
+        @reservation.destroy
+        render json: @reservation
     end    
 end  
