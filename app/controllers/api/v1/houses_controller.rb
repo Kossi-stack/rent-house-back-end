@@ -10,5 +10,10 @@ class Api::V1::HousesController < ApplicationController
         else
           render json: { errors: @house.errors.full_messages }, status: :unprocessable_entity
         end
-    end    
+    end   
+    def destroy
+        @house = House.find(params[:id])
+        @house.destroy
+        render json: @house
+    end
 end
