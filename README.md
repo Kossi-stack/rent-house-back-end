@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The `House Rent` app on RoR
 
 ## The Back-end for Final Capstone Project
@@ -70,12 +71,17 @@ If you are using deployed app
 - Location: Baku, Azerbaijan
 - GitHub: [elmar8287](https://github.com/elmar8287)
 - LinkedIn: [elmar.abdulkarimov](https://www.linkedin.com/in/elmar-abdulkarimov/)
+=======
+# Microverse
+# rent-house-back-end
+>>>>>>> e5edf43540236c7a95de937cf8a3f5d70a1ccecb
 
 👤 **Rustamxon**
 
 - GitHub: [@githubhandle](https://github.com/Rustamxon7)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rustamjon-tolipov-6a831020b)
 - Twitter: [Twitter](https://twitter.com/Rustamjon7777)
+<<<<<<< HEAD
 
 👤 ***Isabella***
 - Location: Nairobi, Kenya
@@ -118,3 +124,5 @@ This project was inspired by Microverse
 
 📝 License
 This project is MIT license
+=======
+>>>>>>> e5edf43540236c7a95de937cf8a3f5d70a1ccecb
