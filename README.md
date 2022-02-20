@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# Microverse
+# rent-house-back-end
+>>>>>>> 84524d245429cfc1968e3513811c83a0f63ab3f8
 # The `House Rent` app on RoR
 
 ## The Back-end for Final Capstone Project
@@ -13,9 +19,9 @@ The final member number of this project is: 5!
 
 ## Built With
 
-Ruby on Rails 
-Postgres 
-Rspec
+ Ruby on Rails 
+ Postgres 
+ Rspec
 
 ## Getting Started
 
@@ -23,9 +29,9 @@ To get a local copy up and run the app, follow these simple example steps.
 
 ## Prerequisites
 
-Ruby : 3.0.1
-Rails : 7.0.1
-Postgres > 14.0
+ Ruby : 3.0.1
+ Rails : 7.0.1
+ Postgres > 14.0
 
 ## Setup
 Clone the repository with:
@@ -39,14 +45,14 @@ To install all dependencies, run:
 
 Create database and seed the data
 
-   rails db:create
-   rails db:migrate
-   rails db:seed
+    rails db:create
+    rails db:migrate
+    rails db:seed
 
 ## Usage
 To run the server, in the project directory, run:
 
-  rails s
+    rails s
 
 ## Endpoints
 
@@ -70,12 +76,23 @@ If you are using deployed app
 - Location: Baku, Azerbaijan
 - GitHub: [elmar8287](https://github.com/elmar8287)
 - LinkedIn: [elmar.abdulkarimov](https://www.linkedin.com/in/elmar-abdulkarimov/)
+<<<<<<< HEAD
+=======
+# Microverse
+# rent-house-back-end
+>>>>>>> e5edf43540236c7a95de937cf8a3f5d70a1ccecb
+=======
+>>>>>>> 84524d245429cfc1968e3513811c83a0f63ab3f8
 
 👤 **Rustamxon**
 
 - GitHub: [@githubhandle](https://github.com/Rustamxon7)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rustamjon-tolipov-6a831020b)
 - Twitter: [Twitter](https://twitter.com/Rustamjon7777)
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 84524d245429cfc1968e3513811c83a0f63ab3f8
 
 👤 ***Isabella***
 - Location: Nairobi, Kenya
@@ -103,3 +120,8 @@ This project was inspired by Microverse
 
 ### 📝 License
 This project is MIT license
+<<<<<<< HEAD
+=======
+>>>>>>> e5edf43540236c7a95de937cf8a3f5d70a1ccecb
+=======
+>>>>>>> 84524d245429cfc1968e3513811c83a0f63ab3f8
