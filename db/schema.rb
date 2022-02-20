@@ -10,9 +10,14 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
+<<<<<<< HEAD
 
 ActiveRecord::Schema.define(version: 0) do
 ActiveRecord::Schema.define(version: 2022_02_20_112452) do
+=======
+ActiveRecord::Schema.define(version: 2022_02_20_112452) do
+ActiveRecord::Schema.define(version: 0) do
+>>>>>>> 84524d245429cfc1968e3513811c83a0f63ab3f8
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -29,5 +34,8 @@ ActiveRecord::Schema.define(version: 2022_02_20_112452) do
     t.index ["email"], name: "index_users_on_email", unique: true
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
+<<<<<<< HEAD
 
+=======
+>>>>>>> 84524d245429cfc1968e3513811c83a0f63ab3f8
 end
