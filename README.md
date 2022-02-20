@@ -90,31 +90,16 @@ If you are using deployed app
 
 
 
-🤝 Contributing
+### 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-Show your support
+### Show your support
 Give a ⭐️ if you like this project!
 
-Acknowledgments
+### Acknowledgments
 This project was inspired by Microverse
 
-📝 License
-This project is MIT license
-
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the issues page.
-
-Show your support
-Give a ⭐️ if you like this project!
-
-Acknowledgments
-This project was inspired by Microverse
-
-📝 License
+### 📝 License
 This project is MIT license
