@@ -1,4 +1,4 @@
-class House < ActiveRecord 
+class House < ApplicationRecord 
   belongs_to :user
   has_many :reservations, dependent: :destroy
 

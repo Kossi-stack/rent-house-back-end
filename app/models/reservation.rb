@@ -1,4 +1,4 @@
-class Reservation < ActiveRecord
+class Reservation < ApplicationRecord
     belongs_to :user
     belongs_to :house
     validates :user, presence: true
