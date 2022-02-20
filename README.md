@@ -83,10 +83,10 @@ If you are using deployed app
 - Linkedin: [Isabellanamutenda](https://www.linkedin.com/in/isabella-namutenda/)
 
 
-👤***Uzair***
-- Location: 
-- GitHub: []()
-- LinkedIn: []()
+👤 ***Uzair***
+- Location: Islamabad, Pakistan
+- GitHub: [@uziarali](https://github.com/uzairali19)
+- LinkedIn: [Uzair Ali](https://www.linkedin.com/in/uzairali19/)
 
 
 
