@@ -2,7 +2,6 @@ class CreateHouses < ActiveRecord::Migration[6.1]
   def change
     create_table :houses do |t|
       t.string :name, null: false
-      t.integer :rooms, null: false
       t.integer :beds, null: false
       t.integer :baths, null: false
       t.integer :price, null: false
