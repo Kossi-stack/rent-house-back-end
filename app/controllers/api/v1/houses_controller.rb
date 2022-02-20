@@ -16,4 +16,9 @@ class Api::V1::HousesController < ApplicationController
         @house.destroy
         render json: @house
     end
+    private
+
+  def house_params
+    params.require(:house).permit(:name, :rooms, :beds, :baths, :price, :rating, :image_url, :description)
+  end
 end
