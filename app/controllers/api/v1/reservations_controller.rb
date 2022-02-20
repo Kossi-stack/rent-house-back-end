@@ -15,5 +15,10 @@ class Api::V1::ReservationsController < ApplicationController
         @reservation = Reservation.find(params[:id])
         @reservation.destroy
         render json: @reservation
-    end    
+    end
+    private
+
+  def reservation_params
+    params.require(:reservation).permit(:start_time, :end_time, :house_id)
+  end
 end  
