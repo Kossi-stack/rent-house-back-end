@@ -10,7 +10,6 @@ class CreateHouses < ActiveRecord::Migration[6.1]
       t.string :image_url, null: false
       t.string :description, null: false
       t.references :user, null: false, foreign_key: true
-      t.references :reservation, null: false, foreign_key: true
       t.timestamps
     end
   end
