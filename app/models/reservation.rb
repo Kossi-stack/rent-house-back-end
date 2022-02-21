@@ -1,6 +1,6 @@
 class Reservation < ApplicationRecord
-  belongs_to :user
-  belongs_to :house
+  belongs_to :user, optional: true
+  belongs_to :house, optional: true
   validates :user, presence: true
   validates :house, presence: true
 end
