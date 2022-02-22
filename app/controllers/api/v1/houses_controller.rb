@@ -1,4 +1,5 @@
 class Api::V1::HousesController < ApplicationController
+  before_action :set_room, only: %i[destroy show]
 
   def index
     @houses = House.all
@@ -20,12 +21,18 @@ class Api::V1::HousesController < ApplicationController
   end
 
   def destroy
-    @house = House.find(params[:id])
-    @house.destroy
-    render json: @house
+    if @house.destroy
+      render json: { message: "House deleted" }
+    else
+      render json: { errors: @house.errors.full_messages }, status: :unprocessable_entity
+    end
   end
 
   private
+
+  def set_room
+    @room = Room.find(params[:id])
+  end
 
   def house_params
     params.require(:house).permit(:name, :rooms, :beds, :baths, :price, :rating, :image_url, :description)

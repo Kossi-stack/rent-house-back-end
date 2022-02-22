@@ -11,7 +11,7 @@
 Devise.setup do |config|
   config.jwt do |jwt|
     jwt.secret = "198b3a762c53cf298531466bb7ab017ae2f76e11892c0217240c065e233ce4fe13a3fa5b61e4a3869391f06d7fef8ddaf4f55af6250c59ecbb19bba08c4e31fa"
-	  jwt.expiration_time = 1.weeks.to_i
+	  jwt.expiration_time = 2.weeks.to_i
   end
 
   config.navigational_formats = []
