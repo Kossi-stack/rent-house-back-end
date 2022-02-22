@@ -22,7 +22,7 @@ class Api::V1::HousesController < ApplicationController
 
   def destroy
     if @house.destroy
-      render json: { message: "House deleted" }
+      render json: { message: 'House deleted' }
     else
       render json: { errors: @house.errors.full_messages }, status: :unprocessable_entity
     end

@@ -1,6 +1,6 @@
 class Api::V1::ReservationsController < ApplicationController
   before_action :set_reservation, only: :destroy
-  
+
   def index
     @reservations = current_user.reservations
     render json: @reservations
@@ -17,7 +17,7 @@ class Api::V1::ReservationsController < ApplicationController
 
   def destroy
     if @reservation.destroy
-      render json: { message: "Reservation deleted" }
+      render json: { message: 'Reservation deleted' }
     else
       render json: { errors: @reservation.errors.full_messages }, status: :unprocessable_entity
     end
