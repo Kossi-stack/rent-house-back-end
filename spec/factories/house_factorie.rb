@@ -1,4 +1,4 @@
-FactoryBot.define do 
+FactoryBot.define do
   factory :house do
     name { 'Bugos' }
     rooms { 'Begos' }

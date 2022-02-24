@@ -12,7 +12,7 @@ RSpec.describe Reservation, type: :model do
     Reservation.new(
       start_time: '2022-02-02',
       end_time: '2022-02-06',
-      user_id: 1,
+      user_id: 1
     )
   end
 

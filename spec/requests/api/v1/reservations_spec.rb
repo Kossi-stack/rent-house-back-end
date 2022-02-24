@@ -1,8 +1,7 @@
 require 'rails_helper'
 
-RSpec.describe "Api::V1::Reservations", type: :request do
-
-  before do
+RSpec.describe 'Api::V1::Reservations', type: :request do
+  background do
     visit user_session
     fill_in 'Name', with: 'Test'
     fill_in 'Email', with: 'donard@gmail.com'
@@ -10,8 +9,8 @@ RSpec.describe "Api::V1::Reservations", type: :request do
     click_button 'Sign up'
   end
 
-  describe "GET /api/v1/reservations" do
-    it "works! (now write some real specs)" do
+  describe 'GET /api/v1/reservations' do
+    it 'works! (now write some real specs)' do
       get '/api/v1/reservations'
       expect(response).to have_http_status(200)
     end
