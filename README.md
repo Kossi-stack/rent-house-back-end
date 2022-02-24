@@ -56,11 +56,6 @@ If you are using the app localy
 
 {defaultHost} = http://localhost:3000
 
-If you are using deployed app
-
-{defaultHost} = .............
-
-
 👤👤 Authors
 
 👤 ***Kossi Fioklou***
