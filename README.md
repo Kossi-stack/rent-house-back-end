@@ -1,5 +1,5 @@
 # Microverse
-# rent-house-back-end
+
 # The `House Rent` app on RoR
 
 ## The Back-end for Final Capstone Project
