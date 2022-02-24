@@ -1,4 +1,4 @@
-# Microverse
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # The `House Rent` app on RoR
 
