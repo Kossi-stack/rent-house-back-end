@@ -8,6 +8,7 @@ class User < ApplicationRecord
 
   has_many :houses, dependent: :destroy
   has_many :reservations, dependent: :destroy
+  has_many :favorites, dependent: :destroy
 
   validates :email, presence: true
 end
