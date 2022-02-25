@@ -13,6 +13,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :reservations, only: %i[index create destroy]
       resources :houses, only: %i[index show create destroy]
+      resources :favorites, only: %i[index create destroy]
     end
   end
 end
