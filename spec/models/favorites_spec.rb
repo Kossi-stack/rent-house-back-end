@@ -66,5 +66,4 @@ RSpec.describe Favorite, type: :model do
       end
     end
   end
-
 end
